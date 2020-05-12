@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registration_frag_head">Register</string>
+    <string name="email_input_hint">Email</string>
+    <string name="content_description_end_icon">Start Icon</string>
+</resources>

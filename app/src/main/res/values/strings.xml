@@ -9,8 +9,12 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
+    <string name="menu_gallery">Registration</string>
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="registration_frag_head">Register</string>
+    <string name="email_input_hint">Email</string>
+    <string name="content_description_end_icon">Start Icon</string>
+    <string name="password_input_hint">Password</string>
 </resources>

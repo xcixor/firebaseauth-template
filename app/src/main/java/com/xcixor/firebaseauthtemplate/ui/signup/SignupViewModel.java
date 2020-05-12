@@ -1,16 +1,16 @@
-package com.xcixor.firebaseauthtemplate.ui.gallery;
+package com.xcixor.firebaseauthtemplate.ui.signup;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class GalleryViewModel extends ViewModel {
+public class SignupViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public GalleryViewModel() {
+    public SignupViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is gallery fragment");
+        mText.setValue("This is signup fragment");
     }
 
     public LiveData<String> getText() {
